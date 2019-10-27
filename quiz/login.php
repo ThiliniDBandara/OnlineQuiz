@@ -49,6 +49,7 @@
 	</div>
 	</div>
 	</div>
+<footer><p>Subcribe Me</p></footer>
 	
 </body>
 </html>
